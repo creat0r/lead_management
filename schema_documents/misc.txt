@@ -1,0 +1,14 @@
+Customer
+	- Step One - {Start Saving Now}
+		- Form Fields
+			- Enter Zip Code
+			- Insurance Type
+				- AutoInsurance
+				- Property Insurance
+				- Vehicle Insurance
+				- Business Insurance
+				- Medical Insurance
+			- Are you currently insured	
+		- Form Results
+			- Selected: Auto Insurance
+				
